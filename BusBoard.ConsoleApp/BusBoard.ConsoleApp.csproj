@@ -51,6 +51,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BusArrivals.cs" />
+    <Compile Include="BusStations.cs" />
+    <Compile Include="PostcodeCoords.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
